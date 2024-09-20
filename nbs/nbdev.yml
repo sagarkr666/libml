@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "libml"
+  site-url: "https://sagarkr666.github.io/libml"
+  description: "Implementation of machine learning algorithm from scratch"
+  repo-branch: main
+  repo-url: "https://github.com/sagarkr666/libml"
